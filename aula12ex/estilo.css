@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(19, 30, 77);
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center; 
+
+
+}
+section{
+    background-color:white;
+    border-radius:10px;
+    text-align: center;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(8, 8, 8, 0.575);
+
+}
+footer{
+    color: white;
+    text-align: center;
+
+}
+div#horaId{
+    font: normal 20pt verdana;
+    margin: 5px;
+    
+}
+div#olaId{
+    font: normal 20pt verdana;
+}

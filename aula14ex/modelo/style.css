@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+header h1{
+    text-align: center;
+}
+main{
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    width: 300px;
+    height: auto;
+}
